@@ -1,7 +1,7 @@
 # 你好！
 # yud0o0
 
-[Russian](https://img.shields.io/badge/Russian-Fluent-2ea44f)
+![Russian](https://img.shields.io/badge/Russian-Fluent-2ea44f)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-2ea44f)
 
@@ -36,7 +36,9 @@ Minecraft mod-addon with Origins and Apoli for server ES.
 Repository: https://github.com/yud0o0/Origins-ES
 
 ![Repo Size](https://img.shields.io/github/repo-size/yud0o0/Origins-ES)
+
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/Origins-ES)
+
 ![Last Commit](https://img.shields.io/github/last-commit/yud0o0/Origins-ES)
 
 ---
@@ -64,7 +66,9 @@ Repository: https://github.com/yud0o0/PVPCitsFav
 Modrinth: https://modrinth.com/mod/pvpcitsfav
 
 ![Repo Size](https://img.shields.io/github/repo-size/yud0o0/PVPCitsFav)
+
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/PVPCitsFav)
+
 ![Watchers](https://img.shields.io/github/watchers/yud0o0/PVPCitsFav)
 
 ---
