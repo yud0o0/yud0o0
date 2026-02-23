@@ -81,4 +81,4 @@ Discord: https://discord.com/users/660405277123674123
 
 ---
 
-![GitHub watchers](https://img.shields.io/github/watchers/yud0o0/yud0o0?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yud0o0)
