@@ -2,8 +2,11 @@
 # yud0o0
 
 [Russian](https://img.shields.io/badge/Russian-Fluent-2ea44f)
+
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-2ea44f)
-![English](https://img.shields.io/badge/English-B1%20Intermediate-blue) (from https://test-english.com/level-test/ (text of this README was corrected by AI))
+
+![English](https://img.shields.io/badge/English-B1%20Intermediate-blue)
+(from https://test-english.com/level-test/ (text of this README was corrected by AI))
 
 Backend / Bot Developer  
 Python · Java · Fabric · Telegram Bot API  
@@ -46,7 +49,9 @@ Repository: https://github.com/yud0o0/grjSchoolCalculateTelegramBot
 Telegram: https://t.me/grjschlesscalcbot
 
 ![Repo Size](https://img.shields.io/github/repo-size/yud0o0/grjSchoolCalculateTelegramBot)
+
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/grjSchoolCalculateTelegramBot)
+
 ![Commit Activity](https://img.shields.io/github/commit-activity/t/yud0o0/grjSchoolCalculateTelegramBot)
 
 ---
@@ -67,9 +72,13 @@ Modrinth: https://modrinth.com/mod/pvpcitsfav
 ## Contacts
 
 Phone: +380 98 854 37 43  
+
 Email: ggyudo11@gmail.com 
 
+
+
 Telegram: https://t.me/yud0o0
+
 Discord: https://discord.com/users/660405277123674123
 
 ---
