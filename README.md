@@ -35,11 +35,9 @@ Minecraft mod-addon with Origins and Apoli for server ES.
 
 Repository: https://github.com/yud0o0/Origins-ES
 
-![Repo Size](https://img.shields.io/github/repo-size/yud0o0/Origins-ES)
-
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/Origins-ES)
 
-![Last Commit](https://img.shields.io/github/last-commit/yud0o0/Origins-ES)
+![Repo Size](https://img.shields.io/github/repo-size/yud0o0/Origins-ES)
 
 ---
 
@@ -49,8 +47,6 @@ Accepts user input and generates a class timetable. Hosted on Railway.
 
 Repository: https://github.com/yud0o0/grjSchoolCalculateTelegramBot
 Telegram: https://t.me/grjschlesscalcbot
-
-![Repo Size](https://img.shields.io/github/repo-size/yud0o0/grjSchoolCalculateTelegramBot)
 
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/grjSchoolCalculateTelegramBot)
 
@@ -64,8 +60,6 @@ In-game action-based triggering and gameplay automation logic.
 
 Repository: https://github.com/yud0o0/PVPCitsFav
 Modrinth: https://modrinth.com/mod/pvpcitsfav
-
-![Repo Size](https://img.shields.io/github/repo-size/yud0o0/PVPCitsFav)
 
 ![Top Language](https://img.shields.io/github/languages/top/yud0o0/PVPCitsFav)
 
@@ -87,4 +81,4 @@ Discord: https://discord.com/users/660405277123674123
 
 ---
 
-![Profile Watchers](https://img.shields.io/github/watchers/yud0o0/yud0o0)
+![GitHub watchers](https://img.shields.io/github/watchers/yud0o0/yud0o0?style=flat)
