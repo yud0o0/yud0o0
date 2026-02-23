@@ -35,7 +35,7 @@ Minecraft mod-addon with Origins and Apoli for server ES.
 
 Repository: https://github.com/yud0o0/Origins-ES
 
-![Top Language](https://img.shields.io/github/languages/top/yud0o0/Origins-ES)
+![Top Language](https://img.shields.io/badge/Java-100%25-orange)
 
 ![Repo Size](https://img.shields.io/github/repo-size/yud0o0/Origins-ES)
 
@@ -48,7 +48,7 @@ Accepts user input and generates a class timetable. Hosted on Railway.
 Repository: https://github.com/yud0o0/grjSchoolCalculateTelegramBot
 Telegram: https://t.me/grjschlesscalcbot
 
-![Top Language](https://img.shields.io/github/languages/top/yud0o0/grjSchoolCalculateTelegramBot)
+![Top Language](https://img.shields.io/badge/Python-100%25-blue)
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/t/yud0o0/grjSchoolCalculateTelegramBot)
 
@@ -61,7 +61,7 @@ In-game action-based triggering and gameplay automation logic.
 Repository: https://github.com/yud0o0/PVPCitsFav
 Modrinth: https://modrinth.com/mod/pvpcitsfav
 
-![Top Language](https://img.shields.io/github/languages/top/yud0o0/PVPCitsFav)
+![Top Language](https://img.shields.io/badge/Java-100%25-orange)
 
 ![Watchers](https://img.shields.io/github/watchers/yud0o0/PVPCitsFav)
 
