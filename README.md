@@ -6,20 +6,29 @@
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-2ea44f)
 
 ![English](https://img.shields.io/badge/English-B1%20Intermediate-blue)
-(from https://test-english.com/level-test/ (text of this README was corrected by AI))
+(from https://test-english.com/level-test/)
 
-Backend / Bot Developer  
-Python · Java · Fabric · Telegram Bot API  
+P.O.Alex
+14 Y.O 
 
-I build Telegram bots and Minecraft Fabric mods.  
-Focused on backend logic, automation, API integration, and game-side systems.
+Junior Backend Java Developer
+Looking for my first job  
+
+usually i build Telegram bots and Minecraft Fabric mods in my free time.  
+
+Skills from pet projects
+Python · Java · lua
+Telegram Bot API · Fabric/Neoforge mod loaders · CC:Tweaked
+
+Focused on backend logic, automation, API integration.
 
 ---
 
 ## Tech Stack
 
 - **Python** — Telegram bots, data processing, state handling
-- **Java** — Minecraft Fabric mods
+- **Java** — Minecraft Fabric/NeoForge mods
+- **Lua** — CC: Tweaked programs
 - Gradle
 - Git / GitHub
 - JSON / configuration-driven logic
