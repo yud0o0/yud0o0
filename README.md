@@ -6,33 +6,28 @@
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Fluent-2ea44f)
 
 ![English](https://img.shields.io/badge/English-B1%20Intermediate-blue)
+
 (from https://test-english.com/level-test/)
 
-P.O.Alex
-14 Y.O 
-
-Junior Backend Java Developer
-Looking for my first job  
-
-usually i build Telegram bots and Minecraft Fabric mods in my free time.  
-
-Skills from pet projects
-Python · Java · lua
-Telegram Bot API · Fabric/Neoforge mod loaders · CC:Tweaked
-
-Focused on backend logic, automation, API integration.
+- P.O.Alex
+- 14 Y.O 
+- Junior Backend Java Developer
+- Looking for my first job  
+- free from 4:30pm to 10:00pm
+- Usually i build Telegram bots and Minecraft Fabric/NeoForge mods in my free time.  
+- Focused on backend logic, automation, API integration.
 
 ---
 
 ## Tech Stack
 
-- **Python** — Telegram bots, data processing, state handling
-- **Java** — Minecraft Fabric/NeoForge mods
-- **Lua** — CC: Tweaked programs
-- Gradle
-- Git / GitHub
-- JSON / configuration-driven logic
-- REST / external APIs
+Skills from pet projects:
+
+| Language | Tools & Frameworks |
+| :--- | :--- |
+| **Java** | Fabric API, NeoForge, Gradle, Mixins |
+| **Python** | Aiogram / Telebot, State handling, Data processing |
+| **Other** | Lua (CC:Tweaked), Git, REST APIs, JSON-driven logic |
 
 ---
 
